@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin (origins= {"https://apfrontend-2d469.web.app"})
+@CrossOrigin (origins= {"https://frontend-portfolioap.web.app/"})
 @RequestMapping("/api")
 public class EducacionController {
     
